@@ -1,0 +1,257 @@
+@charset "utf-8";
+
+body
+{
+	margin: 0px;
+	background-color: blue;
+	font-family: "Myriad pro", "Arial", sans-serif;
+}
+
+.clearboth
+{
+	clear: both;
+}
+
+.green
+{
+	color: #c0e13a;
+}
+
+.whiteitalic
+{
+	color: white;
+	font-size: 115%;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.whiteitalic a
+{
+	color: white;
+	font-size: 130%;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.blue
+{
+	color: #429bc7;
+}
+
+.blueitalic
+{
+	color: #343692;
+	font-style: italic;
+	font-size: 115%;
+}
+
+.blueitalic a
+{
+	color: #343692;
+	font-style: italic;
+	font-size: 105%;
+	text-decoration: none;
+}
+
+.blueitalic2
+{
+	color: #343692;
+	font-size: 115%;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.blueitalic2 a
+{
+	color: #343692;
+	font-size: 130%;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.logo
+{
+	width: 493px;
+	float: left;
+}
+
+.phone
+{
+	width: 400px;
+	margin: 20px 25px 0px 0px;
+	float: right;
+	text-align: right;
+}
+
+.lgreenbg
+{
+	height: 150px;
+	margin: 0px;
+	background-color: #6ae86a;
+}
+
+header
+{
+	width:980px;
+	margin: 0px auto;
+}
+
+.lbluebg
+{
+	height: 81px;
+	margin: 0px;
+	background-color: #6ac6e8;
+}
+
+nav
+{
+	padding: 35px;
+	width:980px;
+	margin: 0px auto;
+	text-align: center;
+	background-color: #6ac6e8;
+}
+
+nav a
+{
+	color: white;
+	text-decoration: none;
+	margin: 0px 18px 0px 18px;
+	font-size: 110%;
+}
+
+nav a:hover
+{
+	color: #bedf38;
+	text-decoration: none;
+}
+
+.lgreenbg2
+{
+	height: 443px;
+	margin: 0px;
+	background-color: #b4f3b4;
+}
+
+.banner
+{
+	height: 443px;
+	width: 980px;
+	margin: auto;
+	text-align: center;
+}
+
+.lbluebg2
+{
+	margin: 0px;
+	background-color: #6ac6e8;
+}
+
+.icons
+{
+	width: 980px;
+	margin: 0px auto;
+}
+
+.icon
+{
+	width: 245px;
+	margin: 25px 0px 25px 0px;
+	float: left;
+	text-align: center;
+}
+
+.lightgreenbg
+{
+	margin: 0px;
+	background-color: #b4f3b4;
+}
+
+.text
+{
+	width: 980px;
+	margin: 0px auto;
+	color: #343692;
+}
+
+.text1
+{
+	width: 375px;
+	margin: 25px 0px 30px 75px;
+	float:left;
+}
+
+.text2
+{
+	width: 795px;
+	margin: 0px 0px 30px 75px;
+	float:left;
+}
+
+.text3
+{
+	width: 239px;
+	margin: 25px 0px 30px 125px;
+	float:left;
+}
+
+.img
+{
+	float:left;
+	margin: 15px;
+}
+
+.review
+{
+	width: 698px;
+	margin: 0px auto;
+	padding: 25px;
+}
+
+
+.greenbg
+{
+	height: 220px;
+	margin: 0px;
+	background-color: #6ae86a;
+}
+
+footer
+{
+	width: 980px;
+	margin: 0px auto;
+	padding: 15px 0px 25px 100px;
+	color: white;
+}
+
+footer a
+{
+	color: white;
+	text-decoration: underline;
+}
+
+footer a:hover
+{
+	color: white;
+	text-decoration: none;
+}
+
+.spacer1
+{
+	height: 29px;
+	background-color: #6ae86a;
+}
+
+.spacer2
+{
+	height: 32px;
+	background-color: #343692;
+}
+
+.spacer3
+{
+	height: 26px;
+	background-color: #343692;
+}
